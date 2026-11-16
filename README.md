@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Muhammad Shayan Ullah 👋
 
-<!--
-**shayanullah-devx/shayanullah-devx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | AI & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I'm a *Computer Science undergraduate at SZABIST University*, currently in my 3rd semester (2nd year), passionate about technology, programming, and exploring the world of Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, strengthening my problem solving skills, and exploring how software can be used to address real world challenges.
+
+### 💻 Technical Skills
+
+*Languages*
+- Python
+- Java
+- C
+- Assembly
+
+*Web Technologies*
+- HTML
+- CSS
+
+*Tools*
+- Visual Studio Code
+- Git & GitHub
+
+### 🎯 Interests
+- Artificial Intelligence & Machine Learning
+- Software Development
+- Problem Solving
+- Building practical and meaningful solutions
+- Exploring emerging technologies
+
+### 🌱 Currently
+- Strengthening my programming fundamentals.
+- Exploring AI and Machine Learning.
+- Improving my technical and problem solving abilities.
+- Working towards building useful products that solve real-world problems.
+
+### 🤝 Let's Connect
+
+- *LinkedIn:* [Muhammad Shayan Ullah](https://www.linkedin.com/in/muhammadshayanullah/)
+
+---
+
+Learning continuously. Building consistently. Creating with purpose. 🚀
